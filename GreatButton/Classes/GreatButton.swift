@@ -1,6 +1,6 @@
 
-class GreatButton: UIButton {
-    init(titleColor: UIColor) {
+public class GreatButton: UIButton {
+    public init(titleColor: UIColor) {
         super.init(frame: .zero)
         self.setTitleColor(titleColor, for: .normal)
     }
