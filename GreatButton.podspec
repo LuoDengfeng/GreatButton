@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GreatButton'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of GreatButton.'
+  s.version          = '0.2.0'
+  s.summary          = 'customized title color'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/RichardLuodf/GreatButton'
+  s.homepage         = 'https://github.com/LuoDengfeng/GreatButton'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'RichardLuodf' => 'richard@kumu.ph' }
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'GreatButton/Classes/**/*'
-  
+  s.swift_version    = '5.7'
   # s.resource_bundles = {
   #   'GreatButton' => ['GreatButton/Assets/*.png']
   # }
