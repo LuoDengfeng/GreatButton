@@ -1,0 +1,22 @@
+{
+  "name": "GreatButton",
+  "version": "0.1.0",
+  "summary": "A short description of GreatButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/RichardLuodf/GreatButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "RichardLuodf": "richard@kumu.ph"
+  },
+  "source": {
+    "git": "https://github.com/RichardLuodf/GreatButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GreatButton/Classes/**/*"
+}

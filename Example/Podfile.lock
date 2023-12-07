@@ -1,0 +1,16 @@
+PODS:
+  - GreatButton (0.1.0)
+
+DEPENDENCIES:
+  - GreatButton (from `../`)
+
+EXTERNAL SOURCES:
+  GreatButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GreatButton: 4c825ff6f1a49e0f74831ccd0ffe54d80b6f42c7
+
+PODFILE CHECKSUM: 25c10de78145d3ca4b55f584dee15578048a5fd6
+
+COCOAPODS: 1.13.0

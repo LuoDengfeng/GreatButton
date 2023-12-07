@@ -1,0 +1,6 @@
+framework module Pods_GreatButton_Example {
+  umbrella header "Pods-GreatButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
